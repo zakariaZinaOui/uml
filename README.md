@@ -24,4 +24,7 @@ Portée :
 
 Géographie : La portée de Google AdSense est mondiale. Les éditeurs peuvent atteindre des audiences internationales, et les annonceurs peuvent cibler des utilisateurs dans différentes régions du monde.
 
-Niche ou secteur d'activité : AdSense peut être adapté à diverses niches ou secteurs d'activité, des blogs de voyage aux sites de commerce électronique, tant que le contenu respecte les politiques de Google.
+Niche ou secteur d'activité : AdSense peut être adapté à diverses niches ou secteurs d'activité, des blogs de voyage aux sites de commerce électronique, tant que le contenu respecte les politiques de Google. <br>
+
+## diagramme cas d utilisation
+<a href="https://ibb.co/9Hg8bBC"><img src="https://i.ibb.co/RTbv3tV/use-case.png" alt="use-case" border="0"></a>
